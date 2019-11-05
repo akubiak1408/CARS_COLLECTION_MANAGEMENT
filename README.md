@@ -1,6 +1,4 @@
 ### CARS_COLLECTION_MANAGEMENT
-> This simple program helps you to easy manage your cars (for car dealer).
-> You can add car, sort them, change some values or delete -> manage your cars collection
 
 ## Table of contents
 * [General info](#general-info)
@@ -10,21 +8,14 @@
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
-About methods.
-1. Show you all cars which are saved in JSON file.
-2. Sort cars - type methods
-* Ascending or Descending
-* by Model
-* by Color
-* by Price
-* by Mileage
+This simple program helps you to easy manage your cars (for car dealer).
+> You can add car, sort them, change some values or delete -> manage your cars collection
 
 ## Screenshots
 *Data generator service generate random data to JSON file.
-![Json Example](./home/adam/Pictures/jsonExample.png)
+![Json Example](./img/jsonExample.png)
 
 ## Technologies
 * Java 8 -> functional programming
@@ -41,20 +32,20 @@ Show examples of usage:
 `put-your-code-here`
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+1. Show you all cars which are saved in JSON file.
+2. Sort cars - type methods
+* Ascending or Descending
+* by Model
+* by Color
+* by Price
+* by Mileage
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* JUnit tests
+* CRUD
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
