@@ -37,15 +37,19 @@ To-do list:
 
 #### Screenshots
 * Data generator service generate random data to JSON file.
+
 ![Json Example](./img/jsonExample.png)
 
 * Sort cars - type methods:
+
 ![Sort Example](./img/sortExample.png)
 
 * Group by
+
 ![Gropued Example](./img/colorExample.png)
 
 * Statistics
+
 ![Statistics Example](./img/statisticsExample.png)
 
 #### Software
@@ -58,8 +62,9 @@ To-do list:
 
 #### Setup
 Main -> App class
-> javac App.java
-> java App.java
+In terminal
+1. javac App.java
+2. java App.java
 
 #### Code Examples
 ###### Number 9
