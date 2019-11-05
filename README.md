@@ -14,30 +14,16 @@
 ## General info
 About methods.
 1. Show you all cars which are saved in JSON file.
-2. Sort cars
-	Sort type methods
-Ascending or Descending
-     a) by Model
-     b) by Color
-     c) by Price
-     d) by Mileage
-
-
-Data generator service generate random data to JSON file.
-For example: 
- {
-    "model": "JEEP",
-    "price": 50208,
-    "color": "GREEN",
-    "mileage": 68372.06,
-    "components": [
-      "Cameras",
-      "Audio"
-    ]
-  }
+2. Sort cars - type methods
+* Ascending or Descending
+* by Model
+* by Color
+* by Price
+* by Mileage
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+*Data generator service generate random data to JSON file.
+![Json Example](./home/adam/Pictures/jsonExample.png)
 
 ## Technologies
 * Java 8 -> functional programming
