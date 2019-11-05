@@ -1,5 +1,6 @@
 ### CARS_COLLECTION_MANAGEMENT
 > This simple program helps you to easy manage your cars (for car dealer).
+> You can add car, sort them, change some values or delete -> manage your cars collection
 
 ## Table of contents
 * [General info](#general-info)
