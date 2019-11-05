@@ -1,0 +1,108 @@
+[
+  {
+    "model": "BMW",
+    "price": 52604,
+    "color": "GREEN",
+    "mileage": 38265.82,
+    "components": [
+      "Cameras",
+      "Sensors"
+    ]
+  },
+  {
+    "model": "JEEP",
+    "price": 50208,
+    "color": "GREEN",
+    "mileage": 68372.06,
+    "components": [
+      "Cameras",
+      "Audio"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 98849,
+    "color": "WHITE",
+    "mileage": 26491.49,
+    "components": [
+      "Audio"
+    ]
+  },
+  {
+    "model": "BMW",
+    "price": 93777,
+    "color": "RED",
+    "mileage": 15544.7,
+    "components": [
+      "Cameras",
+      "Audio"
+    ]
+  },
+  {
+    "model": "JEEP",
+    "price": 92273,
+    "color": "WHITE",
+    "mileage": 46966.98,
+    "components": [
+      "Audio"
+    ]
+  },
+  {
+    "model": "JEEP",
+    "price": 71303,
+    "color": "BLACK",
+    "mileage": 18827.32,
+    "components": [
+      "Cameras",
+      "Sensors",
+      "Audio"
+    ]
+  },
+  {
+    "model": "BMW",
+    "price": 81821,
+    "color": "GREEN",
+    "mileage": 51563.84,
+    "components": [
+      "ABS",
+      "Wiring harnesses",
+      "Cameras",
+      "Sensors",
+      "Audio"
+    ]
+  },
+  {
+    "model": "HYUNDAI",
+    "price": 58195,
+    "color": "GREEN",
+    "mileage": 90729.98,
+    "components": [
+      "ABS",
+      "Cameras",
+      "Audio"
+    ]
+  },
+  {
+    "model": "HYUNDAI",
+    "price": 71954,
+    "color": "WHITE",
+    "mileage": 14472.58,
+    "components": [
+      "ABS",
+      "Cameras",
+      "Wiring harnesses",
+      "Audio"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 51270,
+    "color": "GREEN",
+    "mileage": 67217.03,
+    "components": [
+      "ABS",
+      "Cameras",
+      "Audio"
+    ]
+  }
+]
