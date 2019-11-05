@@ -14,11 +14,7 @@ public abstract class JsonConverter<T> {
 
     private final String jsonFilename;
     private final Gson gson = new GsonBuilder().setPrettyPrinting().create();
-    /**
-     * Przechowuje informacje o tym jaki aktualnie typ został wstawiony za T
-     * Przechwytuje informacje o typie w Runtime
-     * Mechanizm programowania uogólnionego
-     */
+
     private final Type type = ((ParameterizedType) getClass().getGenericSuperclass()).getActualTypeArguments()[0];
 
 
