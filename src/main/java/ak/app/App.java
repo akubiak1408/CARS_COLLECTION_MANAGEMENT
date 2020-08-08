@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        var menuService = new MenuService();
+        MenuService menuService = new MenuService();
         menuService.mainMenuService();
 
     }
